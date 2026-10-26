@@ -1,6 +1,6 @@
 # Hey! I'm Konstantina - Nadia for short 
 
-I am a robotics researcher and engineer from the **National Technical University of Athens (NTUA)**, specializing in robot learning, manipulation, computer vision, and machine learning. I am interested in building adaptive foundation models for embodied agents that can operate reliably in dynamic real-world environments.
+Robotics researcher and engineer from the **National Technical University of Athens (NTUA)**, specializing in robot learning, manipulation, computer vision, and machine learning. Interested in designing adaptive foundation models for embodied agents that can operate reliably in dynamic real-world environments.
 
 
 ### Let's connect! 
